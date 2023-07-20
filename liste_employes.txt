@@ -4,3 +4,4 @@ Doe, John, 11/10/2022, Ingénieur
 Depp, Johnny, 11/10/2022, Concierge
 Parker, Peter, 01/10/2022, Stagiaire
 Baron, Val, 11/22/2222, truc
+Bru, Maxime, 11/11/1111, Bioacousticien
